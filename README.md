@@ -1,0 +1,1 @@
+Projeto de uma ferramenta para ver as condições climáticas da cidade que o usuario deseja pesquisar. Feito com Objetivo de praticar a linguagem Javascript.
