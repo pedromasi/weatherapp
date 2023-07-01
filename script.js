@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> ad11e1c4c5957fbc8442c98d473bb215a05a78c8
 
 
 const container = document.querySelector('.container');
@@ -11,13 +7,10 @@ const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
-<<<<<<< HEAD
+
 
     const APIKey = '------------------------';
-=======
-    
-    const APIKey =
->>>>>>> ad11e1c4c5957fbc8442c98d473bb215a05a78c8
+
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
@@ -81,12 +74,7 @@ search.addEventListener('click', () => {
             container.style.height = '590px';
 
 
-<<<<<<< HEAD
-
         });
 
 
 });
-=======
-})
->>>>>>> ad11e1c4c5957fbc8442c98d473bb215a05a78c8
